@@ -19,7 +19,7 @@ Variables:
 - **dest_airport_id**: Destination Airport, Airport ID. An identification number assigned by US DOT to identify a unique airport. Use this field for airport analysis across a range of years because an airport can change its airport code and airport codes can be reused.
 - **dest**: Destination Airport
 - **dest_city_name**: Destination Airport, City Name
-- **crs_dep_time**: CRS Departure Time (local time: hhmm)
+- **crs_dep_time**: CRS Deprturae Time (local time: hhmm)
 - **dep_time**: Actual Departure Time (local time: hhmm)
 - **dep_delay**: Difference in minutes between scheduled and actual departure time. Early departures show negative numbers.	
 - **taxi_out**: Taxi Out Time, in Minutes
